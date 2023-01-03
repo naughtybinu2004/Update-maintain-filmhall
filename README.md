@@ -1,1 +1,1 @@
-[{"update":"https://youtube.com/channel/UCxpbzNk5UW9GuFMLnYiZBLg","updatep":"https://youtube.com/channel/UCxpbzNk5UW9GuFMLnYiZBLg","maintaince":"2"}]
+[{"update":"1","updatep":"1","maintaince":"2"}]
