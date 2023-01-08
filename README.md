@@ -1,1 +1,1 @@
-[{"update":"2","updatep":"1","maintaince":"2"}]
+[{"update":"2","updatep":"https://www.google.com","maintaince":"2"}]
